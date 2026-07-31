@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -25,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/rupam-maiti/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
@@ -38,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/rupam-maiti/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -59,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0058-length-of-last-word) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
