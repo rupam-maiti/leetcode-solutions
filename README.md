@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0169-majority-element) |
+| [3536-maximum-product-of-two-digits](https://github.com/rupam-maiti/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0050-powx-n) |
+| [3536-maximum-product-of-two-digits](https://github.com/rupam-maiti/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
 | ------- |
