@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0268-missing-number) |
+| [0567-permutation-in-string](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [3731-find-missing-elements](https://github.com/rupam-maiti/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rupam-maiti/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rupam-maiti/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
