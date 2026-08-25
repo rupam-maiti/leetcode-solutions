@@ -8,7 +8,7 @@ public:
         while (st <end) {
             if (s[st] != s[end]) {
                 return false;
-            }
+            }else
                 st++;
                 end--;
             }
