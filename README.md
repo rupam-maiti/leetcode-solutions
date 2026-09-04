@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/rupam-maiti/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/rupam-maiti/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/rupam-maiti/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/rupam-maiti/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/rupam-maiti/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/rupam-maiti/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -153,4 +156,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rupam-maiti/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/rupam-maiti/leetcode-solutions/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
